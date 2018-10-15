@@ -9,6 +9,6 @@ This website is dedicated to the projects that I have done so far as an engineer
 
 If you have anything to share, contact me via email. My email address is
 
-[karsht8@gmail.com.](karsht8@gmail.com)
+[karsht8@gmail.com.](mailto:karsht8@gmail.com)
 
 Cheers!
