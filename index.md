@@ -1,3 +1,4 @@
+[Projects](projects.md)
 # About Me
 Hey there!
 My name is Karsh.
