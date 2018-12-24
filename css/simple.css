@@ -41,11 +41,11 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #430;
+    background-color: #334;
 }
 
 li {
-    float: right;
+    float: left;
 }
 
 li a {
