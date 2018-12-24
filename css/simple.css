@@ -27,6 +27,11 @@ h4{
     text-align: left;
 }
 
+iframe{
+    padding:20px;
+    font-size: 20px;
+}
+
 p{
     padding:5px;
     font-size: 20px;
